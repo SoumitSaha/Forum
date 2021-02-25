@@ -1,0 +1,3 @@
+Commands:
+
+Starting SQL Server  ->   sudo mysql -u root -p
